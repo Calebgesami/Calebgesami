@@ -85,7 +85,6 @@ Avg. Daily: 68% • Max: 90% • Min: 35%
 | Metric | Count | Achievement |
 |--------|-------|-------------|
 | **Total Stars** | ![Stars](https://img.shields.io/github/stars/Calebgesami?style=flat&labelColor=0d1117) | Top 5% of developers |
-
 | **Repositories** | ![Repos](https://img.shields.io/badge/30+-blue?style=flat&labelColor=0d1117) | 15+ public projects |
 | **Pull Requests** | ![PRs](https://img.shields.io/badge/200+-success?style=flat&labelColor=0d1117) | 95% merge rate |
 | **Issues** | ![Issues](https://img.shields.io/badge/150+-important?style=flat&labelColor=0d1117) | 90% closed rate |
