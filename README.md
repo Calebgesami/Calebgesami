@@ -41,9 +41,10 @@ Computer science practitioner and co-founder of **At 3 PM (3PM LABS)**, architec
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calebgesami&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Calebgesami&theme=dark&border_radius=4.5&date_format=M%20j%5B%2C%20Y%5D)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Calebgesami&theme=react-dark&bg_color=0d1117&hide_border=true&area=true)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Calebgesami/Calebgesami/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Calebgesami/Calebgesami/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 ## 🤝 Open To
