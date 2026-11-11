@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Calebgesami)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebgesami@gmail.com)
 [![Twitter](https://img.shields.io/badge/@Bueno254-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Bueno254)
-[![Website](https://img.shields.io/badge/3PM%20LABS-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://3pmlabs.com)
+[![Website](https://img.shields.io/badge/3PM%20LABS-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://3pmlabs.netlify.app)
 [![Resume](https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#) <!-- TODO: link to your CV -->
 
 </div>
@@ -107,20 +107,20 @@ I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmla
 - **Stack:** Django 5 · DRF · PostgreSQL · Redis · Celery · React (Vite) · Tailwind · Docker
 - **Highlights:** M-Pesa B2C disbursement, STK Push, C2B and Ratiba standing orders · multi-branch management with branch dashboards · single-tenant deployment per lender
 - **Status:** 🛠️ In active development
-- **Links:** [Live demo](#) · [Repo](#) · [Case study](#)
+<!--- **Links:** [Live demo](#) · [Repo](#) · [Case study](#)-->
 
-### [VibeGuard](#) · *AI-powered Security Tool*
+<!--### [VibeGuard](#) · *AI-powered Security Tool*
 > Scans AI-generated ("vibe-coded") projects for security flaws before they ship.
 - **Stack:** FastAPI · React · TypeScript · Tailwind · SQLAlchemy · Celery · Redis
 - **Highlights:** Scan from a GitHub URL or ZIP · scored reports mapped to CWE, CVSS and OWASP · LLM analysis pass on top of static checks
 - **Status:** 🛠️ In active development (phased build)
-- **Links:** [Live demo](#) · [Repo](#) · [Case study](#)
+- **Links:** [Live demo](#) · [Repo](#) · [Case study](#) -->
 
 ### [Smart Traffic Management](#) · *AI / Simulation*
 > An AI-driven traffic control system tested in a live simulation.
 - **Stack:** Python · Pygame · Flask · scikit-learn · SQLite · ZeroMQ · Matplotlib
 - **Highlights:** Random Forest + Isolation Forest anomaly detection · origin-destination demand modelling · A/B test harness · web dashboard and Flutter app scaffold
-- **Links:** [Repo](#) · [Demo video](#) · [Write-up](#)
+<!--- **Links:** [Repo](#) · [Demo video](#) · [Write-up](#)-->
 
 ### [Smart Plantation Monitoring](#) · *IoT Dashboard · Client MVP*
 > A monitoring dashboard for an agricultural research team to track plantation conditions.
@@ -134,7 +134,7 @@ I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmla
 - **Stack:** Next.js · Africa's Talking (USSD/SMS) · M-Pesa Daraja
 - **Highlights:** Unifies seven agri-value-chain ideas into one product · works on feature phones via USSD
 - **Status:** 📐 Design and planning stage
-- **Links:** [Repo](#) · [Pitch](#)
+<!--- **Links:** [Repo](#) · [Pitch](#)-->
 
 > 📂 More projects on my [repositories page](https://github.com/Calebgesami?tab=repositories).
 
@@ -144,9 +144,9 @@ I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmla
 
 <!-- TODO: Fill in real dates. Recruiters scan for continuity and seniority. -->
 
-- **Co-founder · 3PM LABS** — *[Year] – Present*
+- **Co-founder · 3PM LABS** — *[2024] – Present*
   Architecting and shipping SaaS platforms, AI systems, and client web apps. Responsible for end-to-end delivery across back end, front end, and infrastructure.
-- **Computer Science Student** — *[Year] – Present*
+- **Computer Science Student** — *[2023] – Present*
   Coursework in algorithms, systems, and software engineering, applied directly to product work.
 
 ---
@@ -163,7 +163,7 @@ I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmla
 
 | Area | Where it shows up |
 |---|---|
-| **Products shipped** | First-party and client work at [3PM LABS](https://3pmlabs.com) |
+| **Products shipped** | First-party and client work at [3PM LABS](https://3pmlabs.netlify.app) |
 | **Pull requests** | [My merged PRs](https://github.com/pulls?q=is%3Apr+author%3ACalebgesami+is%3Amerged+-user%3ACalebgesami) |
 | **Issues opened** | [Issues I've filed](https://github.com/issues?q=is%3Aissue+author%3ACalebgesami+-user%3ACalebgesami) |
 | **Code reviews** | [PRs I've reviewed](https://github.com/pulls?q=is%3Apr+reviewed-by%3ACalebgesami+-author%3ACalebgesami) |
@@ -184,7 +184,7 @@ I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmla
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-_Auto-updated by a GitHub Action (see `.github/workflows/profile.yml`)._
+
 
 ### 🤝 Contributing to my projects
 
@@ -199,10 +199,9 @@ Contributions are welcome on my public repos:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Calebgesami&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](./trophy.svg)
 
 </div>
-
 ---
 
 ## 📖 How I Work
