@@ -100,9 +100,9 @@ I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmla
 - **Stack:** Laravel 11 · Vue 3 · PostgreSQL · Redis
 - **Highlights:** Multi-tenant architecture · M-Pesa Daraja 2.0 fee payments · CBC curriculum support
 - **Status:** 🛠️ In active development
-- **Links:** [Live demo](#) · [Repo](#) · [Case study](#)
+  <!-- **Links:** [Live demo](#) · [Repo](#) · [Case study](#)-->
 
-### [LoanFlow KE](#) · *Fintech · Loan Management System*
+### [LoanFlow KE](#) · *Fintech ·*
 > A loan management system for Kenyan lenders that automates the full M-Pesa payment cycle.
 - **Stack:** Django 5 · DRF · PostgreSQL · Redis · Celery · React (Vite) · Tailwind · Docker
 - **Highlights:** M-Pesa B2C disbursement, STK Push, C2B and Ratiba standing orders · multi-branch management with branch dashboards · single-tenant deployment per lender
@@ -116,18 +116,18 @@ I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmla
 - **Status:** 🛠️ In active development (phased build)
 - **Links:** [Live demo](#) · [Repo](#) · [Case study](#) -->
 
-### [Smart Traffic Management](#) · *AI / Simulation*
+### [Smart Traffic Management](#) · *AI *
 > An AI-driven traffic control system tested in a live simulation.
 - **Stack:** Python · Pygame · Flask · scikit-learn · SQLite · ZeroMQ · Matplotlib
 - **Highlights:** Random Forest + Isolation Forest anomaly detection · origin-destination demand modelling · A/B test harness · web dashboard and Flutter app scaffold
 <!--- **Links:** [Repo](#) · [Demo video](#) · [Write-up](#)-->
 
-### [Smart Plantation Monitoring](#) · *IoT Dashboard · Client MVP*
+<!--### [Smart Plantation Monitoring](#) · *IoT Dashboard · Client MVP*
 > A monitoring dashboard for an agricultural research team to track plantation conditions.
 <!-- TODO: confirm you're allowed to name the client publicly; if not, keep this generic wording. -->
-- **Stack:** Django 5 · DRF · Next.js 14 · TypeScript
+<!-- **Stack:** Django 5 · DRF · Next.js 14 · TypeScript
 - **Highlights:** 10 plantation blocks tracked across 5 environmental metrics · built on simulated sensor data, designed to take live feeds
-- **Links:** [Repo](#) · [Screenshots](#)
+- **Links:** [Repo](#) · [Screenshots](#)- -->
 
 ### [AgriFlow Ecosystem](#) · *Hackathon · USSD + PWA*
 > One platform for smallholder farmers: credit, savings, cold storage, freight and warehouse receipts, reachable by USSD or app.
