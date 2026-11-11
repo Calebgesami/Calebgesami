@@ -93,36 +93,48 @@ I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmla
 
 ## 🚀 Featured Work
 
-<!-- TODO: Replace the placeholders below with real projects. Recruiters want proof, not promises. -->
-<!-- Tip: swap the cards below by editing `repo=` in each URL. -->
+<!-- TODO: Replace each `#` link with the real repo / live demo URL. Delete any project you can't link or demo. -->
 
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Calebgesami&repo=REPO_1&theme=dark&hide_border=true)](https://github.com/Calebgesami/REPO_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Calebgesami&repo=REPO_2&theme=dark&hide_border=true)](https://github.com/Calebgesami/REPO_2)
-
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=Calebgesami&repo=REPO_3&theme=dark&hide_border=true)](https://github.com/Calebgesami/REPO_3)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=Calebgesami&repo=REPO_4&theme=dark&hide_border=true)](https://github.com/Calebgesami/REPO_4)
-
-</div>
-
-### [Project Name 1](https://github.com/Calebgesami/repo) · *SaaS Platform*
-> One-line description of the problem it solves.
-- **Stack:** Python · FastAPI · React · PostgreSQL · Docker
-- **Highlight:** X users / Y% performance improvement / Z feature shipped
+### [Shule SMS](#) · *Multi-tenant SaaS · EdTech*
+> A school management platform for Kenyan schools, built to run many schools on one system.
+- **Stack:** Laravel 11 · Vue 3 · PostgreSQL · Redis
+- **Highlights:** Multi-tenant architecture · M-Pesa Daraja 2.0 fee payments · CBC curriculum support
+- **Status:** 🛠️ In active development
 - **Links:** [Live demo](#) · [Repo](#) · [Case study](#)
 
-### [Project Name 2](https://github.com/Calebgesami/repo) · *AI-powered Tool*
-> One-line description of what it does and who it's for.
-- **Stack:** Python · TypeScript · MongoDB
-- **Highlight:** measurable outcome (latency, accuracy, adoption)
+### [LoanFlow KE](#) · *Fintech · Loan Management System*
+> A loan management system for Kenyan lenders that automates the full M-Pesa payment cycle.
+- **Stack:** Django 5 · DRF · PostgreSQL · Redis · Celery · React (Vite) · Tailwind · Docker
+- **Highlights:** M-Pesa B2C disbursement, STK Push, C2B and Ratiba standing orders · multi-branch management with branch dashboards · single-tenant deployment per lender
+- **Status:** 🛠️ In active development
 - **Links:** [Live demo](#) · [Repo](#) · [Case study](#)
 
-### [Project Name 3](https://github.com/Calebgesami/repo) · *Web Application*
-> One-line description.
-- **Stack:** React · Node.js · PostgreSQL
-- **Highlight:** something concrete.
+### [VibeGuard](#) · *AI-powered Security Tool*
+> Scans AI-generated ("vibe-coded") projects for security flaws before they ship.
+- **Stack:** FastAPI · React · TypeScript · Tailwind · SQLAlchemy · Celery · Redis
+- **Highlights:** Scan from a GitHub URL or ZIP · scored reports mapped to CWE, CVSS and OWASP · LLM analysis pass on top of static checks
+- **Status:** 🛠️ In active development (phased build)
 - **Links:** [Live demo](#) · [Repo](#) · [Case study](#)
+
+### [Smart Traffic Management](#) · *AI / Simulation*
+> An AI-driven traffic control system tested in a live simulation.
+- **Stack:** Python · Pygame · Flask · scikit-learn · SQLite · ZeroMQ · Matplotlib
+- **Highlights:** Random Forest + Isolation Forest anomaly detection · origin-destination demand modelling · A/B test harness · web dashboard and Flutter app scaffold
+- **Links:** [Repo](#) · [Demo video](#) · [Write-up](#)
+
+### [Smart Plantation Monitoring](#) · *IoT Dashboard · Client MVP*
+> A monitoring dashboard for an agricultural research team to track plantation conditions.
+<!-- TODO: confirm you're allowed to name the client publicly; if not, keep this generic wording. -->
+- **Stack:** Django 5 · DRF · Next.js 14 · TypeScript
+- **Highlights:** 10 plantation blocks tracked across 5 environmental metrics · built on simulated sensor data, designed to take live feeds
+- **Links:** [Repo](#) · [Screenshots](#)
+
+### [AgriFlow Ecosystem](#) · *Hackathon · USSD + PWA*
+> One platform for smallholder farmers: credit, savings, cold storage, freight and warehouse receipts, reachable by USSD or app.
+- **Stack:** Next.js · Africa's Talking (USSD/SMS) · M-Pesa Daraja
+- **Highlights:** Unifies seven agri-value-chain ideas into one product · works on feature phones via USSD
+- **Status:** 📐 Design and planning stage
+- **Links:** [Repo](#) · [Pitch](#)
 
 > 📂 More projects on my [repositories page](https://github.com/Calebgesami?tab=repositories).
 
