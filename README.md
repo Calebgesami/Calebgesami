@@ -172,12 +172,12 @@ I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmla
 ### 🔀 Open source contributions
 
 <!-- TODO: Add real PRs. A few merged PRs to known projects are worth more than any badge. -->
-
+<!--
 | Project | Contribution | Status |
 |---|---|---|
 | [org/project](https://github.com/org/project) | Short description of the fix or feature | ![Merged](https://img.shields.io/badge/-Merged-8957e5?style=flat-square) |
 | [org/project](https://github.com/org/project) | Short description of the fix or feature | ![Open](https://img.shields.io/badge/-Open-2da44e?style=flat-square) |
-| [org/project](https://github.com/org/project) | Docs / tests / bug report | ![Merged](https://img.shields.io/badge/-Merged-8957e5?style=flat-square) |
+| [org/project](https://github.com/org/project) | Docs / tests / bug report | ![Merged](https://img.shields.io/badge/-Merged-8957e5?style=flat-square) |  -->
 
 ### 🕒 Recent GitHub activity
 
