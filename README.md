@@ -35,7 +35,7 @@
 
 ## 👋 Quick Summary
 
-I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmlabs.com)**, where I architect and ship SaaS platforms, AI-powered systems, and web applications for clients and first-party products. I work across the stack — Python/FastAPI/Django on the back end, React/TypeScript on the front end, PostgreSQL/MongoDB for data, Docker for delivery.
+I'm a computer science practitioner and co-founder of **[3PM LABS](https://3pmlabs.netlify.app)**, where I architect and ship SaaS platforms, AI-powered systems, and web applications for clients and first-party products. I work across the stack — Python/FastAPI/Django on the back end, React/TypeScript on the front end, PostgreSQL/MongoDB for data, Docker for delivery.
 
 **Currently:** Building products at 3PM LABS · Studying computer science · Open to full-time & contract roles.
 
