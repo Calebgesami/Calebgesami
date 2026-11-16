@@ -195,14 +195,7 @@ Contributions are welcome on my public repos:
 3. **Open a PR** describing what changed and why
 4. Look for issues labelled [`good first issue`](https://github.com/search?q=user%3ACalebgesami+label%3A%22good+first+issue%22+state%3Aopen&type=issues) or [`help wanted`](https://github.com/search?q=user%3ACalebgesami+label%3A%22help+wanted%22+state%3Aopen&type=issues)
 
-### 🏆 Trophies
 
-<div align="center">
-
-![Trophies](./trophy.svg)
-
-</div>
----
 
 ## 📖 How I Work
 
